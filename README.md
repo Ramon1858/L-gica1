@@ -1,1 +1,3 @@
-# L-gica1
+# Logica1
+
+aula de logica numero 1
